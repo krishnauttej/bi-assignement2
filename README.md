@@ -1,1 +1,1 @@
-# bi-assignement2
+This is an image classification between cats and dogs.Training is done over 8000 images and testing is done over 2000 images.used Convolutional neuural networks (CNN) to build the model and achieved an test accuracy around 0.86
